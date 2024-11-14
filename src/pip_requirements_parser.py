@@ -46,6 +46,8 @@ from functools import partial
 from optparse import Values
 from optparse import Option
 
+from pathlib import Path
+
 from typing import (
     Any,
     BinaryIO,
